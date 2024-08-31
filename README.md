@@ -20,3 +20,6 @@ Additional markdown files explaining specific aspects of the project
 
 # Miscellaneous
 License file
+
+# Bonus 
+Notes for professionals books included also
