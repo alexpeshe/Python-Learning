@@ -2,11 +2,6 @@
 
 - This repository contains all python books, cheat sheets, general learning materials, coding files and snippets.
 
-# Automate-the-boring-stuff
-Automate the boring stuff by Al Sweigart 
-
-This repository would contain the following:
-
 # Code Files
 
 The repository would contain all the source code files, including:
@@ -27,3 +22,10 @@ License file
 
 # Bonus 
 Notes for professionals books included also
+
+# Automate-the-boring-stuff
+
+This repository would contain the following:
+
+- Automate the boring stuff by Al Sweigart pdf book
+- Jupyter notebooks with excercise and code snippets inside
