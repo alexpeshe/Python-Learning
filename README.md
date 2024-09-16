@@ -1,3 +1,7 @@
+# Python Learning
+
+- This repository contains all python books, cheat sheets, general learning materials, coding files and snippets.
+
 # Automate-the-boring-stuff
 Automate the boring stuff by Al Sweigart 
 
