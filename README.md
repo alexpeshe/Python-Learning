@@ -23,9 +23,14 @@ License file
 # Bonus 
 Notes for professionals books included also
 
+# Learning undertaken
+
 # Automate-the-boring-stuff
 
 This repository would contain the following:
 
 - Automate the boring stuff by Al Sweigart pdf book
 - Jupyter notebooks with excercise and code snippets inside
+
+# 100 Days of Coding Challanges ( main aim is to code 1-2 hrs per day)
+
