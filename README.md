@@ -32,5 +32,18 @@ This repository would contain the following:
 - Automate the boring stuff by Al Sweigart pdf book
 - Jupyter notebooks with excercise and code snippets inside
 
+-  Tools used:
+
+Mainly but not limited to Jupyter Lab & Notebooks, VS Code and Pycharm
+
+
 # 100 Days of Coding Challanges ( main aim is to code 1-2 hrs per day)
+
+- Resources
+
+Cheat sheets, Jupyter Notebooks, .py program and script files.
+
+- Tools used:
+
+Mainly but not limited to Jupyter Lab & Notebooks, VS Code and Pycharm
 
