@@ -34,9 +34,14 @@ Notes for professionals books included also
 
 # Automate-the-boring-stuff
 
+- Link:
+
+https://www.udemy.com/course/automate/?couponCode=ST11MT91624A 
+
 This repository would contain the following:
 
 - Automate the boring stuff by Al Sweigart pdf book
+
 - Jupyter notebooks with excercise and code snippets inside
 
 -  Tools used:
@@ -45,6 +50,10 @@ Mainly but not limited to Jupyter Lab & Notebooks, VS Code and Pycharm
 
 
 # 100 Days of Coding Challanges ( main aim is to code 1-2 hrs per day)
+
+- Link:
+
+https://www.udemy.com/course/100-days-of-code/learn/lecture/18085735?start=15#overview 
 
 - Resources
 
@@ -67,4 +76,16 @@ https://python-book.softuni.bg/
 
 Mainly but not limited to Pycharm
 
+
+# Free Code Camp certifications and projects:
+
+- Scientific Computing with Python
+
+- College Algebra with Python
+
+- Data Analysis with Python
+
+- Relational Databases
+
+- Machine Learning with Python
 
