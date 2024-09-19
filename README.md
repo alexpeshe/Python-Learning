@@ -85,7 +85,5 @@ Mainly but not limited to Pycharm
 
 - Data Analysis with Python
 
-- Relational Databases
-
 - Machine Learning with Python
 
