@@ -63,6 +63,10 @@ Cheat sheets, Jupyter Notebooks, .py program and script files.
 
 Mainly but not limited to Jupyter Lab & Notebooks, VS Code and Pycharm
 
+- Aditional folder"
+
+Contains diagrams, files, extra scripts so on and so on.
+
 
 # SoftUni programing basics
 
