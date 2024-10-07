@@ -74,14 +74,27 @@ Contains diagrams, files, extra scripts so on and so on.
 
 Free E-Book (Bulgarian and English) in the link below:
 
-https://python-book.softuni.bg/  - Bulgarian Version
-https://python-book.softuni.org/ - English Version
+
+- Bulgarian Books:
+
+https://python-book.softuni.bg/  - Bulgarian Version Online
+
+https://github.com/SoftUni/Programming-Basics-Book-Python-BG.git  - Bulgarian Version Download 
+
+
+- English Versions:
+
+https://python-book.softuni.org/ - English Version Online
+
+https://github.com/SoftUni/Programming-Basics-Book-Python-EN -  English Version Download
+
 
 - Notes in Bulgarian in a form of Jupyter files
 
 - Exercise .py files
 
 - Any projects that were created during the course
+  
 
 - Tools used to complete the exercises:
 
@@ -90,11 +103,17 @@ Mainly but not limited to Pycharm and Jyputer Lab.
 
 # Free Code Camp certifications and projects:
 
+
 - Scientific Computing with Python
+  
 
 - College Algebra with Python
+  
 
 - Data Analysis with Python
+  
 
 - Machine Learning with Python
+
+  
 
