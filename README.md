@@ -89,6 +89,8 @@ https://python-book.softuni.org/ - English Version Online
 https://github.com/SoftUni/Programming-Basics-Book-Python-EN -  English Version Download
 
 
+# The Basics' Course 
+
 - Notes in Bulgarian in a form of Jupyter files
 
 - Exercise .py files
@@ -98,7 +100,7 @@ https://github.com/SoftUni/Programming-Basics-Book-Python-EN -  English Version 
 
 - Tools used to complete the exercises:
 
-Mainly but not limited to Pycharm and Jyputer Lab.
+Mainly but not limited to Pycharm, VS Code and Jyputer Lab.
 
 
 # Free Code Camp certifications and projects:
