@@ -89,7 +89,10 @@ https://python-book.softuni.org/ - English Version Online
 https://github.com/SoftUni/Programming-Basics-Book-Python-EN -  English Version Download
 
 
-# The Basics' Course 
+# The Basics' Course:
+
+https://github.com/alexpeshe/Python-Learning/tree/main/SofUni%20Basics%20Course
+
 
 - Notes in Bulgarian in a form of Jupyter files
 
