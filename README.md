@@ -117,15 +117,18 @@ Mainly but not limited to Pycharm, VS Code and Jyputer Lab.
 
 # Free Code Camp certifications and projects:
 
-
 # Scientific Computing with Python
 
 - Projects:
 
 Arithmetic Formatter
+
 Budget App 
+
 Time Calculator
+
 Polygon Area Calculator
+
 Probability Calculator
 
 - Github Link:
