@@ -29,7 +29,7 @@ License file
 Notes for professionals books included also
 
 
-# Learning undertaken
+# All Learning undertaken
 
 
 # Automate-the-boring-stuff
@@ -42,18 +42,29 @@ This repository would contain the following:
 
 - Automate the boring stuff by Al Sweigart pdf book
 
+Link: https://github.com/alexpeshe/Python-Learning/tree/main/Automate%20the%20boring%20stuff%20the%20book 
+
 - Jupyter notebooks with excercise and code snippets inside
 
 -  Tools used:
 
 Mainly but not limited to Jupyter Lab & Notebooks, VS Code and Pycharm
 
+- GitHub Link:
+
+https://github.com/alexpeshe/Python-Learning/tree/main/Automate%20the%20boring%20stuff%20by%20Al%20Sweigart
+
 
 # 100 Days of Coding Challanges ( main aim is to code 1-2 hrs per day)
+
 
 - Link:
 
 https://www.udemy.com/course/100-days-of-code/learn/lecture/18085735?start=15#overview 
+
+- GitHub Link:
+
+https://github.com/alexpeshe/Python-Learning/tree/main/100%20Days%20of%20Python%20projects
 
 - Resources
 
@@ -74,13 +85,11 @@ Contains diagrams, files, extra scripts so on and so on.
 
 Free E-Book (Bulgarian and English) in the link below:
 
-
 - Bulgarian Books:
 
 https://python-book.softuni.bg/  - Bulgarian Version Online
 
 https://github.com/SoftUni/Programming-Basics-Book-Python-BG.git  - Bulgarian Version Download 
-
 
 - English Versions:
 
@@ -109,16 +118,41 @@ Mainly but not limited to Pycharm, VS Code and Jyputer Lab.
 # Free Code Camp certifications and projects:
 
 
-- Scientific Computing with Python
+# Scientific Computing with Python
+
+- Projects:
+
+Arithmetic Formatter
+Budget App 
+Time Calculator
+Polygon Area Calculator
+Probability Calculator
+
+- Github Link:
+
+
   
 
-- College Algebra with Python
-  
+# College Algebra with Python
 
-- Data Analysis with Python
-  
+- Projects:
 
-- Machine Learning with Python
+- Github Link:
 
+# Data Analysis with Python
+
+- Projects:
+
+- Github Link:
+
+# Machine Learning with Python
+
+- Projects:
+
+- Github Link:
+
+# Hackerrank problem challanges
+
+- Profile Link: 
   
 
