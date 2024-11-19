@@ -1,6 +1,6 @@
 # Python Learning
 
-- This repository contains all python books, links, cheat sheets, general learning materials, coding files and snippets.
+- This repository contains all python files &  notebooks, links, cheat sheets, general learning materials, coding files and snippets. As well as, link to Hackerrank profile when solving challanges.
 
 # Code Files
 
@@ -17,6 +17,7 @@ PDF files, such as research papers, books, or project documentation
 Notes within the Jupyter files
 
 # Documentation
+
 README.md: A markdown file providing an overview of the project, setup instructions, and usage guidelines
 Additional markdown files explaining specific aspects of the project
 
@@ -57,6 +58,7 @@ https://github.com/alexpeshe/Python-Learning/tree/main/Automate%20the%20boring%2
 
 # 100 Days of Coding Challanges ( main aim is to code 1-2 hrs per day)
 
+Centered around the 100 days of coding callenges, which will contain most major, milestones and projects in a Day folders that have been completed with comments and documentation. 
 
 - Link:
 
@@ -74,7 +76,7 @@ Cheat sheets, Jupyter Notebooks, .py program and script files.
 
 Mainly but not limited to Jupyter Lab & Notebooks, VS Code and Pycharm
 
-- Aditional folder"
+- Aditional folder:
 
 Contains diagrams, files, extra scripts so on and so on.
 
@@ -98,7 +100,7 @@ https://python-book.softuni.org/ - English Version Online
 https://github.com/SoftUni/Programming-Basics-Book-Python-EN -  English Version Download
 
 
-# The Basics' Course:
+# The Basics' SoftUni Course:
 
 https://github.com/alexpeshe/Python-Learning/tree/main/SofUni%20Basics%20Course
 
@@ -117,11 +119,12 @@ Mainly but not limited to Pycharm, VS Code and Jyputer Lab.
 
 # Free Code Camp certifications and projects:
 
+
 # Scientific Computing with Python
 
 - Projects:
 
-Arithmetic Formatter
+Arithmetic Formatter 
 
 Budget App 
 
@@ -142,17 +145,23 @@ Probability Calculator
 
 - Github Link:
 
+  
+
 # Data Analysis with Python
 
 - Projects:
 
 - Github Link:
 
+
+
 # Machine Learning with Python
 
 - Projects:
 
 - Github Link:
+
+
 
 # Hackerrank problem challanges
 
